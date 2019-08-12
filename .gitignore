@@ -1,0 +1,11 @@
+*.class
+*.jar
+target
+.idea
+uploads
+
+# Default ignored files
+/sweater.iws
+
+# Datasource local storage ignored files
+/.ideaDataSources/
